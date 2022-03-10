@@ -51,7 +51,6 @@ namespace Prosit5 {
 	private: System::Windows::Forms::Button^ btn_destination;
 	private: System::Windows::Forms::TextBox^ txt_source;
 	private: System::Windows::Forms::TextBox^ txt_destination;
-
 	private: System::Windows::Forms::GroupBox^ gpBox_typeProcessus;
 	private: System::Windows::Forms::RadioButton^ rdb_effacer;
 	private: System::Windows::Forms::RadioButton^ rdb_coiperEffacer;
