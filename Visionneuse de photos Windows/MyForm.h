@@ -57,7 +57,6 @@ namespace Prosit5 {
 	private: System::Windows::Forms::RadioButton^ rdb_copier;
 	private: System::Windows::Forms::Button^ btn_proceder;
 	private: System::Windows::Forms::TextBox^ txt_rslt;
-
 	private: System::Windows::Forms::Label^ lbl_resultats;
 	private: System::Windows::Forms::FolderBrowserDialog^ fld_source;
 	private: System::Windows::Forms::FolderBrowserDialog^ fld_destination;
