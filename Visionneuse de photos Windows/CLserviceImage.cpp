@@ -1,4 +1,5 @@
 //CLserviceImage.cpp
+
 #include "CLserviceImage.h"
 
 namespace NS_services
