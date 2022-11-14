@@ -12,6 +12,3 @@ int __clrcall WinMain(array<String^>^ args) //Soit Main soit WinMain
 	Prosit5::MyForm form; //changé
 	Application::Run(% form);
 }
-
-
-
