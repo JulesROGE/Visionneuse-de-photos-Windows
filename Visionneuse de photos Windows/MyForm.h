@@ -427,5 +427,3 @@ namespace Prosit5 {
 	}
 };
 }
-
-
