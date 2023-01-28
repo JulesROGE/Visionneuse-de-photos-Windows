@@ -330,7 +330,7 @@ namespace Prosit5 {
 			   this->Controls->Add(this->btn_previous);
 			   this->Controls->Add(this->btn_first);
 			   this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
-			   this->Icon = gcnew System::Drawing::Icon(L"Icon.ico");
+			   this->Icon = gcnew System::Drawing::Icon(L"Photo.ico");
 			   this->Margin = System::Windows::Forms::Padding(4, 5, 4, 5);
 			   this->Name = L"MyForm";
 			   this->Text = L"Visionneuse de photos Windows";
