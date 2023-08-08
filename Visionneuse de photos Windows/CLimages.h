@@ -12,5 +12,3 @@ namespace NS_composants
 		System::Drawing::Bitmap^ acquisitionImage(String^); //Changé
 	};
 }
-
-
